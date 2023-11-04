@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @TarryBilokur
+- 👀 I wanna be a Software Enginner...
+- 🌱 I’m currently learning how to create beautiful responsive websites from scratch using JavaScript and NodeJS...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me:
+-     bilokurtaras@icloud.com
+-     https://www.linkedin.com/in/taras-bilokur-4945371ab
+
+
